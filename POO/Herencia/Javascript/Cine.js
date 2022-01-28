@@ -1,7 +1,7 @@
-import { Sala } from "./Sala";
-import { Pelicula } from "./Pelicula";
-import { Documental } from "./Documental";
-import { Partido } from "./Partido";
+import { Sala } from "./Javascript/Sala.js";
+import { Pelicula } from "./Javascript/Pelicula.js";
+import { Documental } from "./Javascript/Documental.js";
+import { Partido } from "./Javascript/Partido.js";
 
 class Cine {
 
